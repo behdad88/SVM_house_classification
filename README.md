@@ -59,16 +59,6 @@ property:
 
 ## 2 Questions
 
-Write a report answering the following questions. It is encouraged to read all the questions before starting.
-Some later questions might influence how you would solve the earlier ones. Submit a zip file containing the
-following files:
-
-• The file containing the list of identifiers (see question 4).
-
-• All code written to solve the given tasks, do not include the given data files.
-
-• Your report, a pdf with explicit anwers to all 5 questions. Pay attention to the description of your experimental setup.
-
 **Question 1:** You can see the prediction column has far less True values than the highValue column.
 Why do you think the existing company took on so few contracts?
 
